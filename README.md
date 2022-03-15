@@ -1,1 +1,1 @@
-{ "SendMessage":49, "MyMessage": "Notice: Guys May New Update Pala Tayong App\n\nBuild Version [1.0]\n\nKung Build Version [5] or [6] or [7] or [8]Uninstall Nyo Po Yan Or Delete\n\nDownload Mo Ang Build Version [1.0] Then Install Mo\n\nIto Link Copy Mo Lang Or Screenshot\n\nhttps://www.mediafire.com/file/kswvyzqcm4zsknm/Rocket+VPN+Pro+NewBuild+1.0.apk/file." }\n\n
+{ "SendMessage":49, "MyMessage": " }\n\n
