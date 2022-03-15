@@ -1,1 +1,1 @@
-{ "SendMessage":49, "MyMessage": " }\n\n
+{ "SendMessage":55, "MyMessage": "Notice: New Update Config Version (55🚀)" }\n\n
